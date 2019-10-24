@@ -67,10 +67,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="githubTest.aspx.cs">
+      <DependentUpon>githubTest.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="githubTest.aspx.designer.cs">
+      <DependentUpon>githubTest.aspx</DependentUpon>
+    </Compile>
     <Compile Include="index.aspx.cs">
       <DependentUpon>index.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
