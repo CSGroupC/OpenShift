@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            hello world. Is this master the real master or is this on my branch and just labeled master? We'll find out in a sec!
+            hello world. Pushing this from github to local... Hopefully....
         </div>
     </form>
 </body>
