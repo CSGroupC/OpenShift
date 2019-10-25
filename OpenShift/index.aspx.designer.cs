@@ -7,13 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace OpenShift
-{
-
-
-    public partial class index
-    {
-
+namespace OpenShift {
+    
+    
+    public partial class index {
+        
         /// <summary>
         /// form1 control.
         /// </summary>
